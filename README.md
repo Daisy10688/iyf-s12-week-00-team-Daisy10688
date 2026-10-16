@@ -30,6 +30,7 @@ This guide provides an overview of essential programming languages used in softw
 print("Hello, World")
 ```
 *written by Daisy Awuor*
+
 ## JavaScript
 *written by Tasha Faith*
 JavaScript is a high level general purpose programming language known for its simple and interactive nature. It is widely used by beginners and professional developers because it runs directly in the browser and can be used to create dynamic and interactive websites.
@@ -46,9 +47,20 @@ JavaScript is a high level general purpose programming language known for its si
 3. Backend development with Node.js
 4. Mobile app development
 
+## Resources
+
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
+- [JavaScript Tutorial for Beginners](https://www.youtube.com/results?search_query=JavaScript+tutorial+for+beginners)
+- [Python Documentation](https://docs.python.org/3/)
+
 ### Example of JavaScript Code
 ```javascript
 console.log("Hello, World!")
+
+Expected output:
+Hello, world!
+
 ```
 ## C++
 
